@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+- 🔭 I’m currently working on UI/UX Designing
+- 📫 How to reach me:
+  Email: maceda.mejalian.lyka.mendez@gmail.com
+
 <!--
 **MjMace03/MjMace03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
